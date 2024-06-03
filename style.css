@@ -22,7 +22,7 @@ body {
 
 .nav {
 	background-color: #1b1d47;
-	min-width: 30ch;
+	min-width: 15ch;
 } 
 
 .content {
@@ -32,7 +32,7 @@ body {
 
 .footer {
 	background-color: #1b1d47;
-	padding: 5rem 0;
+	padding: 2rem 0;
 }
 
 
