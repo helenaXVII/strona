@@ -10,6 +10,29 @@ body {
 	text-align: center;
 }
 
+.navitem {
+	display: block;
+	margin: 2em 1em;
+}
+
+.container {
+	display: flex;
+	flex-direction: row;
+}
+
+.nav {
+	background-color: #1b1d47;
+} 
+
+.content {
+	background-color: #c5c7e8;
+}
+
+.footer {
+	background-color: #1b1d47;
+}
+
+
 
 /*nieodwiedzony link*/
 
