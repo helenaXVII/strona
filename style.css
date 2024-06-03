@@ -1,0 +1,188 @@
+
+
+body
+
+{
+	
+	background-image:url(img/bg.png);
+	font-family:cursive;
+	font-size:25px;
+	color:#404373;
+	text-align:center;
+	
+}
+
+
+ 
+}
+
+
+/*nieodwiedzony link*/
+
+a:link
+{
+	color:#912d21;
+}
+
+/*odwiedzony link*/
+
+a:visited
+{
+	color:#704d68;
+}
+
+/*link po najechaniu kursorem myszki*/
+
+a:hover
+{
+	color:#eb234b;
+
+}
+
+
+div.container
+{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+
+div.nav
+{
+	float: left;
+	width: 150px;
+	padding: 15px;
+	min-height: 1000px;
+	background-color:#1b1d47;
+	color:#575a99;
+	text-align: left;
+	
+}
+
+div.content
+{
+	float: left;
+	width: 790px;
+	padding: 15px;
+	min-height: 1000px;
+	background-color:#c5c7e8;
+}
+
+div.footer
+{
+	clear: both;
+	background-color:#1b1d47;
+	color:#575a99;
+	text-align: center;
+	padding: 15px;
+	
+}
+
+
+
+
+
+
+
+
+input.to_left
+{
+align: left;
+margin-left: 300px;
+}
+
+
+
+label.to_left
+{
+float: left;
+}
+
+fieldset
+{
+border-color:#1b1d47;
+}
+
+.button
+{
+background-color: #FFFFFF;
+font-family: cursive; 
+color: #404373;	
+}
+
+
+
+
+
+
+body
+{
+	background-color:#FFFFFF;
+	font-family:cursive;
+	font-size:18px;
+	color:#404373;
+	text-align: center; 
+}
+
+ul
+{	
+	list-style-type: square;
+	text-align: left;
+	color: #575a99;
+	font-size:22px;
+	text-align: left;
+	margin: 50px;
+}
+
+ul.girl
+{
+	list-style-type: circle;
+	color: #FFFFFF;
+}
+
+ol
+{
+	text-align: left;
+	margin: 50px;
+}
+
+ol.group
+{
+	list-style-type: upper-roman;
+	color: #1b1d47;
+	font-size:25px;
+	
+}
+
+
+ol.student
+{
+	color: #404373;
+	font-size:18px;
+}
+
+
+
+
+
+
+table
+{ 
+	border: 3px solid #1b1d47;
+	background-color:#c5c7e8;
+	margin: auto;
+} 
+
+td
+{ 
+	border: 1px solid #404373;
+	padding: 5px;
+} 
+
+th
+{ 
+	border: 1px solid #575a99;
+	padding: 5px;
+} 
